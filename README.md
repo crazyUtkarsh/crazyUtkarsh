@@ -6,6 +6,7 @@
 -💞️ I’m looking to collaborate on ...
 -📫 How to reach me on my maild id @darkutkarsh68699@gmail.com
 -⚡ Fun Fact: I love to live my life
+<br/>
 -💻 Skills
 ![image](https://user-images.githubusercontent.com/95992213/189968936-93532d8b-7f22-4131-bfac-3acda1295aee.png)
 ![image](https://user-images.githubusercontent.com/95992213/189969366-08e0e6af-e503-4154-a2bc-89f6a35c4732.png)
