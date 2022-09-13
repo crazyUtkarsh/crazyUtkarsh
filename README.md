@@ -3,8 +3,8 @@
 - 👀 I’m interested in coding(wants to develop something like artifical intelligence)
 -🌱 I'm currently learning ReactJS, MongoDB, ExpressJS, NodeJS
 -💬 Ask me about Back-End Development, little bit front-end, Graphic Designing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on my maild id @darkutkarsh68699@gmail.com
+-💞️ I’m looking to collaborate on ...
+-📫 How to reach me on my maild id @darkutkarsh68699@gmail.com
 -⚡ Fun Fact: I love to live my life
 -💻 Skills
 ![image](https://user-images.githubusercontent.com/95992213/189968936-93532d8b-7f22-4131-bfac-3acda1295aee.png)
