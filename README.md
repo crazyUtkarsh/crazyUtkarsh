@@ -1,14 +1,75 @@
-- 👋 Hi, I’m Utkarsh Verma
-- ⚡Learning Full Stack Web Development
-- 👀 I’m interested in coding(wants to develop something like artifical intelligence)
--🌱 I'm currently learning ReactJS, MongoDB, ExpressJS, NodeJS
--💬 Ask me about Back-End Development, little bit front-end, Graphic Designing
--💞️ I’m looking to collaborate on ...
--📫 How to reach me on my maild id @darkutkarsh68699@gmail.com
--⚡ Fun Fact: I love to live my life
--💻 Skills
--![image](https://user-images.githubusercontent.com/95992213/189968936-93532d8b-7f22-4131-bfac-3acda1295aee.png)
--![image](https://user-images.githubusercontent.com/95992213/189969366-08e0e6af-e503-4154-a2bc-89f6a35c4732.png)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+ 
+</div>
+<div id="profile" align="center">
+ <img src="https://komarev.com/ghpvc/?username=crazyUtkarsh&style=flat-square&color=blue" alt=""/>
+</div>
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
+</div>
+---
+
+### :man_technologist: About Me :
+I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m currently a Second Year Student and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :dragon_face: Enthusastic Learner.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=flat&logo=Instagram&logoColor=white)](your-linkedin-url)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="Atom" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<hr style="border:2px solid gray">
+
+:fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crazyUtkarsh&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyUtkarsh&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr style="border:2px solid gray">
+
+# :writing_hand: Blog Posts 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!---
 crazyUtkarsh/crazyUtkarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
